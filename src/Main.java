@@ -9,7 +9,7 @@ public class Main {
             }
             return sum;
         };
-        System.out.println(factorial.factorial(5));
+        System.out.println(factorial.factorial(10));
 
     }
 }
